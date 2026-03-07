@@ -1,0 +1,9 @@
+# Виртуальное окружение (uv / venv)
+.venv/
+__pycache__/
+
+# Настройки VS Code
+.vscode/
+
+# Системные файлы
+.DS_Store
